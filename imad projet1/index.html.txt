@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta mane="viewport" content="width=device-width, ititial scale=1">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" type="text/css" href="C:\Users\mr_black\imad projet 1\style.css">
+    <title>IMAD CODING PRJ1</title>
+</head>
+<body>
+        <h1 id="heading">welcome to my first coding project</h1>
+
+    <p class="paragraph"><strong>presentation in my this frst project i will create a simple website which containes basic html and css</strong></p>
+   
+        <img  id="photo" src="https://i.postimg.cc/y830NPRc/292226077-1211940369558034-1062767578956468956-n.jpg" alt="imad with bimmer">
+<h3><b>who am i?:</b></h3>
+<p>i'm IMAD am 19yo from casablanca MOROCCO  i am serious and diciplined about my goals in the journey of life
+    i love exercising by doing calisthenics, running ,  also reading books ,taking courses,watching podcasts ,movies and series
+    i have discovered the world of coding and programming by my cousin that is a full-stack developer and by my brother who showed me an app called solo learn
+    back when i was still in middle school.
+</p>
+     <h2>the list of my favorite movies:</h2>
+<ol id="movies">
+    <li> i am legend </li>
+    <li>in time  </li>
+    <li> pointbreak </li>
+    <li>scarface  </li>
+    <li>the gentelman </li>
+</ol>
+
+   <h2>he list of my favorite books:</h2>
+<ul class="list">
+<li> FAKE by robert kiyosaki</li>
+<li>the compund effect </li>
+<li>the 10x rule </li>
+</ul>
+     <h2>the links of my favorite websites:</h2>
+ 1)<a href="https://www.pdfdrive.com/" target="_blank">pdf drive</a>
+ 2)<a href="https://www.udemy.com/" target="_blank">udemy</a>
+ 3)<a href="https://www.freecodecamp.org/learn" target="_blank">freecodecamp</a>
+ 4)<a href="https://www.codecademy.com/learn/paths/front-end-engineer-career-path" target="_blank">codeacademy</a>
+<h2>this is an audio of best song:</h2> 
+<h4><u>click play to listen</u></h4>
+<audio controls>
+<source src="file:///C:/Users/mr_black/Desktop/WhatsApp%20Audio%202022-10-01%20at%2017.11.41%20(online-audio-converter.com).mp3" type="audio/mpeg">
+</audio>
+<br>
+<h2><u>this is one of my favorite videos:</u></h2>
+<video controls src="file:///C:/Users/mr_black/Desktop/quote.mp4.mp4" height="400px">
+</video>
+
+
+</body>
+</html>
