@@ -1,0 +1,33 @@
+*{
+
+}
+body{
+    background-color:#2d6c8b;
+    text-align: center;
+    font-family:Oswald;
+    font-size: 25px;
+    text-transform:capitalize ;
+    
+}
+#heading{
+color:rgb(14, 20, 26);
+
+}
+#photo{
+    height:300px;
+    width: 300px;
+    align:center;
+    border-radius: 80%;
+    border-color: rgb(41, 76, 107);
+}
+.paragraph{
+    font-size:larger;
+    font-weight:200px;
+border-style:solid;
+}
+.list{
+    text-align: center;
+}
+#movies{
+    align-items:center;
+}
